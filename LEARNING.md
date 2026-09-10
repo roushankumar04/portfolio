@@ -7,13 +7,13 @@ This file tracks what I learn while building the portfolio.
 ### Phase 0 — Project Setup
 
 - [x] Task 1 — Create GitHub repository + local project
-- [ ] Task 2 — Understand project structure, Git & GitHub
-- [ ] Task 3 — Create first HTML document
-- [ ] Task 4 — Make first HTML commit
+- [x] Task 2 — Understand project structure, Git & GitHub
+- [x] Task 3 — Create first HTML document
+- [x] Task 4 — Make first HTML commit
 
 ### Phase 1 — HTML
 
-- [ ] Task 5 — Build basic page structure
+- [x] Task 5 — Build basic page structure
 - [ ] Task 6 — Create navigation
 - [ ] Task 7 — Create hero/profile section
 - [ ] Task 8 — Create About section
@@ -71,6 +71,11 @@ This file tracks what I learn while building the portfolio.
 - `git add` stages changes.
 - `git commit` records a snapshot.
 - `git push` sends commits to GitHub.
+- `<header>` contains introductory/header content.
+- `<main>` contains the primary page content.
+- `<footer>` contains footer information.
+- HTML elements can be nested to form a document hierarchy.
+- `git diff` shows changes between the working tree and the last commit.
 
 ### Commands Used
 
