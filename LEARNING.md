@@ -14,8 +14,8 @@ This file tracks what I learn while building the portfolio.
 ### Phase 1 — HTML
 
 - [x] Task 5 — Build basic page structure
-- [ ] Task 6 — Create navigation
-- [ ] Task 7 — Create hero/profile section
+- [x] Task 6 — Create navigation
+- [x] Task 7 — Create hero/profile section
 - [ ] Task 8 — Create About section
 - [ ] Task 9 — Create Contact section
 - [ ] Task 10 — Add social/developer links
